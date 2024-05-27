@@ -1,5 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Green Color -->
+    <color name="green_100">#FFFFFF</color>
+    <color name="green_98">#E8FCF3</color>
+    <color name="green_95">#CCFBE8</color>
+    <color name="green_90">#99F7D1</color>
+    <color name="green_80">#66F2BA</color>
+    <color name="green_70">#33EEA3</color>
+    <color name="green_60">#00E98C</color>
+    <color name="green_50">#00C276</color>
+    <color name="green_40">#009A60</color>
+    <color name="green_30">#00734B</color>
+    <color name="green_20">#004C35</color>
+    <color name="green_10">#002620</color>
+    <color name="green_0">#000000</color>
+
+    <!-- Blur Color -->
+    <color name="blue_100">#FFFFFF</color>
+    <color name="blue_98">#F0F8FF</color>
+    <color name="blue_95">#E1F1FF</color>
+    <color name="blue_90">#C2E3FF</color>
+    <color name="blue_80">#A3D5FF</color>
+    <color name="blue_70">#84C7FF</color>
+    <color name="blue_60">#65B9FF</color>
+    <color name="blue_50">#46ABFF</color>
+    <color name="blue_40">#369FFF</color>
+    <color name="blue_30">#2683FF</color>
+    <color name="blue_20">#1667FF</color>
+    <color name="blue_10">#073BFF</color>
+    <color name="blue_0">#000000</color>
+
+    <!-- Red Color -->
+    <color name="red_100">#FFFFFF</color>
+    <color name="red_98">#FFF0F5</color>
+    <color name="red_95">#FFE1EB</color>
+    <color name="red_90">#FFC2D6</color>
+    <color name="red_80">#FFA3C1</color>
+    <color name="red_70">#FF84AC</color>
+    <color name="red_60">#FF6597</color>
+    <color name="red_50">#FF4682</color>
+    <color name="red_40">#FF369F</color>
+    <color name="red_30">#FF2683</color>
+    <color name="red_20">#FF1667</color>
+    <color name="red_10">#FF073B</color>
+    <color name="red_0">#000000</color>
+
+    <!-- Grey Color -->
+    <color name="grey_100">#FFFFFF</color>
+    <color name="grey_98">#F4F4F4</color>
+    <color name="grey_95">#E9E9E9</color>
+    <color name="grey_90">#D2D2D2</color>
+    <color name="grey_80">#BFBFBF</color>
+    <color name="grey_70">#A6A6A6</color>
+    <color name="grey_60">#999999</color>
+    <color name="grey_50">#7F7F7F</color>
+    <color name="grey_40">#666666</color>
+    <color name="grey_30">#4C4C4C</color>
+    <color name="grey_25">#393C3A</color>
+    <color name="grey_20">#333333</color>
+    <color name="grey_15">#232724</color>
+    <color name="grey_10">#1A1A1A</color>
+    <color name="grey_0">#000000</color>
+
+    <!-- Basic Color -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#232724</color>
+
 </resources>
