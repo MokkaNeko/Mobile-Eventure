@@ -5,8 +5,68 @@
         <item name="colorPrimary">@color/green_60</item>
         <item name="colorError">@color/red_60</item>
 
-        <item name="fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins_regular</item>
     </style>
 
     <style name="Theme.Eventure" parent="Base.Theme.Eventure" />
+
+    <style name="Text" />
+    <style name="Text.Display" />
+    <style name="Text.Title" />
+    <style name="Text.Body" />
+    <style name="Text.Label" />
+
+
+    <style name="Text.Display.Large">
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">@font/poppins_semi_bold</item>
+    </style>
+    <style name="Text.Display.XSmall">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/poppins_semi_bold</item>
+    </style>
+
+    <style name="Text.Title.Large">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+    <style name="Text.Title.Normal">
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+    <style name="Text.Title.Small">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/poppins_semi_bold</item>
+    </style>
+
+    <style name="Text.Body.Large">
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+    <style name="Text.Body.Normal">
+        <item name="android:textSize">14sp</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+    <style name="Text.Body.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+    <style name="Text.Body.XSmall">
+        <item name="android:textSize">11sp</item>
+        <item name="fontFamily">@font/poppins_regular</item>
+    </style>
+
+    <style name="Text.Label.Large" >
+        <item name="android:textSize">24sp</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+    <style name="Text.Label.Normal" >
+        <item name="android:textSize">20sp</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+    <style name="Text.Label.Small" >
+        <item name="android:textSize">16sp</item>
+        <item name="fontFamily">@font/poppins_medium</item>
+    </style>
+
 </resources>

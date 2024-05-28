@@ -5,6 +5,6 @@
         <item name="colorPrimary">@color/green_60</item>
         <item name="colorError">@color/red_60</item>
 
-        <item name="fontFamily">@font/poppins</item>
+        <item name="fontFamily">@font/poppins_regular</item>
     </style>
 </resources>
