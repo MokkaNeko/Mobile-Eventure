@@ -1,7 +1,8 @@
-package com.eventurecapstone.eventure
+package com.eventurecapstone.eventure.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.eventurecapstone.eventure.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
