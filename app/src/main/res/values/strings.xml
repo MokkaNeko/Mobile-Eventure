@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Eventure</string>
+    <string name="welcome_title">Welcome to Eventure</string>
+    <string name="welcome_desc">Join us to explore events in your location based on your interest</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+
 </resources>
